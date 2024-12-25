@@ -40,6 +40,7 @@ Ask questions about the document, and the system will respond contextually.
 
 # Project Structure
 Retrieval-Augmented-Generation/
+* LICENSE - License file (defines usage rights)
 * RAG.py - Main application script
 * requirements.txt - Python dependencies
 * .gitignore - Files to ignore in version control
