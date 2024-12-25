@@ -31,7 +31,7 @@ GROQ_API_KEY=your_api_key_here
 
 # Usage
 ## 1. Run the Application
-Start the Gradio application:
+Launh Gradio interface:
 python RAG.py
 ## 2. Interact with the System
 Upload a PDF document via the interface.
